@@ -1,0 +1,1 @@
+moms_age = int(input("how old are your mom"))
